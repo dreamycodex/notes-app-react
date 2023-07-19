@@ -1,0 +1,9 @@
+@import url(./styles/utility.css);
+
+:root {
+  --bg-color: #9333ea;
+}
+
+body {
+  background-color: var(--bg-color);
+}
